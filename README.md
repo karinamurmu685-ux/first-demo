@@ -1,5 +1,6 @@
 # first-demo
 This is my first Git Repository.
 <br>
-Author - Karina Murmu
+Author - Karina Murmu 
+first project (QR code)
 
